@@ -1360,7 +1360,7 @@ input[type='checkbox'] {
 /**********************/
 .footer {
 	padding-top: 5rem;
-	background-color: #262431;
+	background-color: #2f2c3d;
 }
 
 .footer .footer-col {
@@ -1481,6 +1481,8 @@ a:hover.back-to-top {
 
 .ex-basic-2 .text-container {
 	margin-bottom: 3.625rem;
+	text-align: center;
+
 }
 
 .ex-basic-2 .text-container.last {
@@ -2049,6 +2051,7 @@ a:hover.back-to-top {
 	/* Footer */
 	.footer .footer-col {
 		width: 90%;
+		text-align: center;
 	}
 
 	.footer .footer-col.middle {
